@@ -36,7 +36,7 @@
 		"@sapphire/utilities": "^3.9.2",
 		"@skyra/env-utilities": "^1.0.2",
 		"@skyra/start-banner": "^1.0.2",
-		"discord.js": "13.10.2",
+		"discord.js": "14.6.0",
 		"gradient-string": "^2.0.1"
 	},
 	"devDependencies": {
