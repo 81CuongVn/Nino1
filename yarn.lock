@@ -39,12 +39,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.17.2":
-  version: 7.18.9
-  resolution: "@babel/runtime@npm:7.18.9"
+"@babel/runtime@npm:^7.20.6":
+  version: 7.22.11
+  resolution: "@babel/runtime@npm:7.22.11"
   dependencies:
-    regenerator-runtime: ^0.13.4
-  checksum: 36dd736baba7164e82b3cc9d43e081f0cb2d05ff867ad39cac515d99546cee75b7f782018b02a3dcf5f2ef3d27f319faa68965fdfec49d4912c60c6002353a2e
+    regenerator-runtime: ^0.14.0
+  checksum: a5cd6683a8fcdb8065cb1677f221e22f6c67ec8f15ad1d273b180b93ab3bd86c66da2c48f500d4e72d8d2cfa85ff4872a3f350e5aa3855630036af5da765c001
   languageName: node
   linkType: hard
 
@@ -854,16 +854,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/plugin-i18next@npm:^2.5.4":
-  version: 2.5.4
-  resolution: "@sapphire/plugin-i18next@npm:2.5.4"
+"@sapphire/plugin-i18next@npm:^5.1.0":
+  version: 5.1.0
+  resolution: "@sapphire/plugin-i18next@npm:5.1.0"
   dependencies:
-    "@sapphire/utilities": ^3.7.0
-    "@skyra/i18next-backend": ^1.0.1
+    "@sapphire/utilities": ^3.13.0
+    "@skyra/i18next-backend": ^2.0.3
     chokidar: ^3.5.3
-    i18next: ^21.8.13
-    tslib: ^2.4.0
-  checksum: 79f470ba126f88e19eaac9db8604bcd9b9f0b895d101dedcd2911c88e40c075a27bbad2eff7cd78ada3f2e3fae44dcde06bddd36fd55b8dd7040fd181d66640a
+    i18next: ^22.5.1
+  checksum: d794f61c3dc7c15b16bbd3b6054dd94e192ad37a1c24808ee5dd9bfeb652f0edefd3cca64eb783fb53dfb593249a4d200719efe4b27f6e2ec9a985868cc2e40e
   languageName: node
   linkType: hard
 
@@ -975,12 +974,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@skyra/i18next-backend@npm:^1.0.1":
-  version: 1.0.2
-  resolution: "@skyra/i18next-backend@npm:1.0.2"
+"@skyra/i18next-backend@npm:^2.0.3":
+  version: 2.0.3
+  resolution: "@skyra/i18next-backend@npm:2.0.3"
   dependencies:
-    tslib: ^2.4.0
-  checksum: 2f94a15203c4b1815a085daaee30ec06b6326648766dfded1164e257969ea269be466f0ad2cd578f2f7c7a7c613a74d35bd60d406c47f50aa23f82f9e079dee4
+    tslib: ^2.5.0
+  checksum: 0cd0af01a1544e3e85cb98092dd302f262350f47b47928e872880dd039705db0f1c209cebb1f4697a056c6f66908dd51b7d59b368b7fc783f1d088ae11eed2d6
   languageName: node
   linkType: hard
 
@@ -3195,12 +3194,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"i18next@npm:^21.8.13":
-  version: 21.8.14
-  resolution: "i18next@npm:21.8.14"
+"i18next@npm:^22.5.1":
+  version: 22.5.1
+  resolution: "i18next@npm:22.5.1"
   dependencies:
-    "@babel/runtime": ^7.17.2
-  checksum: 83b1a57d761c3d29b90f4e87eb9945902fa13d7750f11bc7f22e8c9999f7e5bf9b2a30c44a9b47569c8ea704573b02a562c2678cf2281073197ace07657d21be
+    "@babel/runtime": ^7.20.6
+  checksum: 175f8ab7fac2abcee147b00cc2d8e7d4fa9b05cdc227f02cac841fc2fd9545ed4a6d88774f594f8ad12dc944e4d34cc8e88aa00c8b9947baef9e859d93abd305
   languageName: node
   linkType: hard
 
@@ -4160,7 +4159,7 @@ __metadata:
     "@sapphire/fetch": ^2.4.1
     "@sapphire/framework": next
     "@sapphire/plugin-editable-commands": ^1.2.2
-    "@sapphire/plugin-i18next": ^2.5.4
+    "@sapphire/plugin-i18next": ^5.1.0
     "@sapphire/plugin-logger": ^2.2.3
     "@sapphire/plugin-subcommands": pr-271
     "@sapphire/prettier-config": ^1.4.5
@@ -4743,10 +4742,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.13.4":
-  version: 0.13.9
-  resolution: "regenerator-runtime@npm:0.13.9"
-  checksum: 65ed455fe5afd799e2897baf691ca21c2772e1a969d19bb0c4695757c2d96249eb74ee3553ea34a91062b2a676beedf630b4c1551cc6299afb937be1426ec55e
+"regenerator-runtime@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "regenerator-runtime@npm:0.14.0"
+  checksum: 1c977ad82a82a4412e4f639d65d22be376d3ebdd30da2c003eeafdaaacd03fc00c2320f18120007ee700900979284fc78a9f00da7fb593f6e6eeebc673fba9a3
   languageName: node
   linkType: hard
 
