@@ -867,14 +867,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/plugin-logger@npm:^2.2.3":
-  version: 2.2.3
-  resolution: "@sapphire/plugin-logger@npm:2.2.3"
+"@sapphire/plugin-logger@npm:^3.0.7":
+  version: 3.0.7
+  resolution: "@sapphire/plugin-logger@npm:3.0.7"
   dependencies:
-    "@sapphire/time-utilities": ^1.7.4
-    colorette: ^2.0.19
-    tslib: ^2.4.0
-  checksum: 90d4fdffccae8ab777601a322d0e32aba7ae415837298f176122620600f2b48a8235f746dfd292fdf9f2af1229f576e736870b394e368a3ed7e91791fddaacca
+    "@sapphire/timestamp": ^1.0.1
+    colorette: ^2.0.20
+  checksum: b5939aaf0ffc69695d7aa6c01b8fd8ea426f4c5a55035684761162c68977364a7dd0caf305ca1b4db4c481c35c9e21d2f92d90966756baa13e2cf406057b0933
   languageName: node
   linkType: hard
 
@@ -937,6 +936,13 @@ __metadata:
   dependencies:
     "@sapphire/utilities": ^3.7.0
   checksum: a83f505ff0e5eac7b8b316c7fa207f52ae2c07dd223f651d7dcb3f9a3e61b86b6168dac746455d1d1a2a4732d4865ab7526332f3f463db31048d8b1e5ba9d6cb
+  languageName: node
+  linkType: hard
+
+"@sapphire/timestamp@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "@sapphire/timestamp@npm:1.0.1"
+  checksum: 40320946cb8fcbbb610b94019882eb39c900b9af87e4a2d173299efaa062921662d950780c273fd44f4ec9877983d725d28f0b999314f338f3bfc0ab3c45a8cb
   languageName: node
   linkType: hard
 
@@ -1848,7 +1854,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"colorette@npm:^2.0.19, colorette@npm:^2.0.20":
+"colorette@npm:^2.0.20":
   version: 2.0.20
   resolution: "colorette@npm:2.0.20"
   checksum: 0c016fea2b91b733eb9f4bcdb580018f52c0bc0979443dad930e5037a968237ac53d9beb98e218d2e9235834f8eebce7f8e080422d6194e957454255bde71d3d
@@ -4177,7 +4183,7 @@ __metadata:
     "@sapphire/framework": next
     "@sapphire/plugin-editable-commands": ^1.2.2
     "@sapphire/plugin-i18next": ^2.5.4
-    "@sapphire/plugin-logger": ^2.2.3
+    "@sapphire/plugin-logger": ^3.0.7
     "@sapphire/plugin-subcommands": pr-271
     "@sapphire/prettier-config": ^1.4.5
     "@sapphire/type": ^2.4.1

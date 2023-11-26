@@ -30,7 +30,7 @@
 		"@sapphire/framework": "next",
 		"@sapphire/plugin-editable-commands": "^1.2.2",
 		"@sapphire/plugin-i18next": "^2.5.4",
-		"@sapphire/plugin-logger": "^2.2.3",
+		"@sapphire/plugin-logger": "^3.0.7",
 		"@sapphire/plugin-subcommands": "pr-271",
 		"@sapphire/type": "^2.4.1",
 		"@sapphire/utilities": "^3.13.0",
