@@ -43,7 +43,7 @@
 		"@commitlint/cli": "^17.8.1",
 		"@commitlint/config-conventional": "^17.8.1",
 		"@sapphire/eslint-config": "^4.4.3",
-		"@sapphire/prettier-config": "^1.4.5",
+		"@sapphire/prettier-config": "^2.0.0",
 		"@types/diff": "^5.0.9",
 		"@types/gradient-string": "^1.1.5",
 		"@types/ms": "^0.7.34",
