@@ -24,7 +24,7 @@
 		"@kaname-png/plugin-subcommands-advanced": "^2.4.0",
 		"@napi-rs/canvas": "^0.1.44",
 		"@prisma/client": "^4.16.2",
-		"@sapphire/decorators": "^4.3.8",
+		"@sapphire/decorators": "^6.1.0",
 		"@sapphire/discord.js-utilities": "^4.12.0",
 		"@sapphire/fetch": "^2.4.2",
 		"@sapphire/framework": "next",

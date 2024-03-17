@@ -754,21 +754,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/decorators@npm:^4.3.8":
-  version: 4.3.8
-  resolution: "@sapphire/decorators@npm:4.3.8"
+"@sapphire/decorators@npm:^6.0.2, @sapphire/decorators@npm:^6.1.0":
+  version: 6.1.0
+  resolution: "@sapphire/decorators@npm:6.1.0"
   dependencies:
-    tslib: ^2.4.0
-  checksum: 1642d102959fe81313c30a180d4bbbdc8ace51c6fb41710e03c5ec971b889aa0e845660c4bdaae4a2f16611bfefd09966c30e6d46fe39c59a0deaaa493f3a54d
-  languageName: node
-  linkType: hard
-
-"@sapphire/decorators@npm:^6.0.2":
-  version: 6.0.2
-  resolution: "@sapphire/decorators@npm:6.0.2"
-  dependencies:
-    tslib: ^2.6.0
-  checksum: b24f33ee14c2014efec9b29ef947e59adc66001e6e4e5f6601063d4e4c86dd0a30bd8eb2c5b67a6231473e76018db1120f416cc94d650280b21462dfe8ca0a02
+    tslib: ^2.6.2
+  checksum: 9c9c8aef9bb00e422ab7b7fed0ef4713469d008d10a74dac340e142b67c3abeb822f35d410dcdac46f8beb30b9d17fbb51a2e7894caf0b4a8b6a62b3ef914180
   languageName: node
   linkType: hard
 
@@ -4170,7 +4161,7 @@ __metadata:
     "@kaname-png/plugin-subcommands-advanced": ^2.4.0
     "@napi-rs/canvas": ^0.1.44
     "@prisma/client": ^4.16.2
-    "@sapphire/decorators": ^4.3.8
+    "@sapphire/decorators": ^6.1.0
     "@sapphire/discord.js-utilities": ^4.12.0
     "@sapphire/eslint-config": ^4.4.3
     "@sapphire/fetch": ^2.4.2
@@ -5470,7 +5461,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^2.1.0, tslib@npm:^2.3.1, tslib@npm:^2.4.0, tslib@npm:^2.6.0, tslib@npm:^2.6.2":
+"tslib@npm:^2.1.0, tslib@npm:^2.3.1, tslib@npm:^2.4.0, tslib@npm:^2.6.2":
   version: 2.6.2
   resolution: "tslib@npm:2.6.2"
   checksum: 329ea56123005922f39642318e3d1f0f8265d1e7fcb92c633e0809521da75eeaca28d2cf96d7248229deb40e5c19adf408259f4b9640afd20d13aecc1430f3ad
