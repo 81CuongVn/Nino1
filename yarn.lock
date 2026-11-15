@@ -778,16 +778,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/decorators@npm:^4.3.8":
-  version: 4.3.8
-  resolution: "@sapphire/decorators@npm:4.3.8"
-  dependencies:
-    tslib: ^2.4.0
-  checksum: 1642d102959fe81313c30a180d4bbbdc8ace51c6fb41710e03c5ec971b889aa0e845660c4bdaae4a2f16611bfefd09966c30e6d46fe39c59a0deaaa493f3a54d
-  languageName: node
-  linkType: hard
-
-"@sapphire/decorators@npm:^6.1.0":
+"@sapphire/decorators@npm:^6.1.0, @sapphire/decorators@npm:^6.2.0":
   version: 6.2.0
   resolution: "@sapphire/decorators@npm:6.2.0"
   dependencies:
@@ -4157,7 +4148,7 @@ __metadata:
     "@kaname-png/plugin-subcommands-advanced": ^2.5.0
     "@napi-rs/canvas": ^0.1.100
     "@prisma/client": ^4.16.2
-    "@sapphire/decorators": ^4.3.8
+    "@sapphire/decorators": ^6.2.0
     "@sapphire/discord.js-utilities": ^4.12.0
     "@sapphire/eslint-config": ^4.4.3
     "@sapphire/fetch": ^2.4.2
